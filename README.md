@@ -1,2 +1,2 @@
 # website
-My Personal Weebsite
+My Personal Website
